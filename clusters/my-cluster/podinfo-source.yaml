@@ -9,7 +9,6 @@ spec:
   ref:
     branch: master
   url: https://github.com/stefanprodan/podinfo
-
 patches:
   - patch: |-
       apiVersion: autoscaling/v2beta2
